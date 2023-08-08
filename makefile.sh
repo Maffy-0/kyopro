@@ -11,6 +11,7 @@ padded_number=$(printf "%03d" "$number")
 dirname="abc${padded_number}"
 mkdir "$dirname"
 cd "$dirname"
+
 for char in {a..f}
 do
     filename="abc${padded_number}${char}.cpp"
