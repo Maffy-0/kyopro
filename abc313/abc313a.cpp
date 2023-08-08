@@ -11,5 +11,16 @@ void fast_io() {
 
 int main(void) {
     fast_io();
+    int n;
+    cin >> n;
+    vector<int> p(n);
+    for (int i = 0; i < n; i++) {
+        cin >> p[i];
+    }
+    int mx = 0;
+    for (int i = 1; i < n; i++) {
+        mx = max(mx, p[i] - p[0] + 1);
+    }
+    cout << mx << endl;
     return 0;
 }
