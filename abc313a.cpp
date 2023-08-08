@@ -17,10 +17,10 @@ int main(void) {
     for (int i = 0; i < n; i++) {
         cin >> p[i];
     }
-    int mx = 0;
+    int ans = 0;
     for (int i = 1; i < n; i++) {
-        mx = max(mx, p[i] - p[0] + 1);
+        ans = max(ans, p[i] - p[0] + 1);
     }
-    cout << mx << endl;
+    cout << ans << endl;
     return 0;
 }
