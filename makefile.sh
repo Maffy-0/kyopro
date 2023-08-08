@@ -12,7 +12,7 @@ dirname="abc${padded_number}"
 mkdir "$dirname"
 cd "$dirname"
 
-for char in {a..f}
+for char in {a..c}
 do
     filename="abc${padded_number}${char}.cpp"
     cp "../atcoder.cpp" "$filename"
