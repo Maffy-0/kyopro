@@ -9,6 +9,7 @@ void fast_io() {
     ios_base::sync_with_stdio(false);
 }
 
+// メモ化再帰
 int h, w;
 int a[2020][2020];
 bool vis[2020][2020];
