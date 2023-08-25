@@ -17,26 +17,82 @@ int main(void) {
     for (int i = 0; i < h; i++) {
         cin >> s[i];
     }
-    vector x(h, vector<int> (26));
-    vector y(w, vector<int> (26));
+    const int m = 26;
+    vector row(h, vector<int> (m));
+    vector col(w, vector<int> (m));
     for (int i = 0; i < h; i++) {
         for (int j = 0; j < w; j++) {
-            x[i][s[i][j] - 'a']++;
-            y[j][s[i][j] - 'a']++;
+            row[i][s[i][j] - 'a']++;
+            col[j][s[i][j] - 'a']++;
         }
     }
-    int hc = h, wc = w;
-    vector<bool> fx(h), fy(w);
-    for (int k = 0; k < h + w; k++) {
-        vector<pair<int, int>> ux, uy;
+    
+    vector<bool> row_deleted(h);
+    vector<bool> col_deleted(w);
+
+    auto to_delete = [&](vector<int> x) -> bool {
+        int tot = 0, k = 0;
+        for (int j = 0; j < m; j++) {
+            tot += x[j];
+            if (x[j]) {
+                k++;
+            }
+        }
+        return tot >= 2 && k == 1;
+    };
+    auto del = [&](int i, int j) -> void {
+        if (row_deleted[i] || col_deleted[j]) {
+            return;
+        }
+        row[i][s[i][j] - 'a']--;
+        col[j][s[i][j] - 'a']--;
+    };
+
+    bool upd = true;
+    while (upd) {
+        upd = false;
+        vector<int> del_row, del_col;
         for (int i = 0; i < h; i++) {
-            if (fx[i]) {
+            if (row_deleted[i]) {
                 continue;
             }
-            for (int j = 0; j < 26; j++) {
-                
+            if (to_delete(row[i])) {
+                del_row.push_back(i);
             }
         }
+        for (int j = 0; j < w; j++) {
+            if (col_deleted[j]) {
+                continue;
+            }
+            if (to_delete(col[j])) {
+                del_col.push_back(j);
+            }
+        }
+        for (int i : del_row) {
+            for (int j = 0; j < w; j++) {
+                del(i, j);
+            }
+            row_deleted[i] = true;
+            upd = true;
+        }
+        for (int j : del_col) {
+            for (int i = 0; i < h; i++) {
+                del(i, j);
+            }
+            col_deleted[j] = true;
+            upd = true;
+        }
     }
+
+    int ans = 0;
+    for (int i = 0; i < h; i++) {
+        for (int j = 0; j < w; j++) {
+            if (row_deleted[i] || col_deleted[j]) {
+                continue;
+            }
+            ans++;
+        }
+    }
+    cout << ans << endl;
     return 0;
 }
