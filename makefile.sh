@@ -18,5 +18,3 @@ do
     cp "../atcoder.cpp" "$filename"
     echo "Created file: $filename"
 done
-
-cd "../"
