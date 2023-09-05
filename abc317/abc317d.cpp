@@ -9,42 +9,33 @@ void fast_io() {
     ios_base::sync_with_stdio(false);
 }
 
-int main(void) {
+int main() {
     fast_io();
-    ll n;
+    int n;
     cin >> n;
-    // 高橋君が必要な議席
-    ll need = 0;
-    // 今高橋君が持っている議席
-    ll now = 0;
-    vector<pair<ll, ll>> v;
+    vector<int> x(n), y(n), z(n);
     for (int i = 0; i < n; i++) {
-        ll a, b, c;
-        cin >> a >> b >> c;
-        need += c;
-        if (a > b) {
-            now += c;
-        } else {
-            ll half = (a + b + 1) / 2;
-            v.push_back({half - a, c});
+        cin >> x[i] >> y[i] >> z[i];
+    }
+    vector<int> need(n);
+    for (int i = 0; i < n; i++) {
+        need[i] = max(0, (x[i] + y[i] + 1) / 2 - x[i]);
+    }
+    int sum = accumulate(z.begin(), z.end(), 0);
+    const ll inf = (ll)1e18;
+    vector<ll> dp(sum + 1, inf);
+    dp[0] = 0;
+    for (int i = 0; i < n; i++) {
+        for (int j = sum - z[i]; j >= 0; j--) {
+            dp[j + z[i]] = min(dp[j + z[i]], dp[j] + need[i]);
         }
     }
-    need = (need + 1) / 2;
-    if (need <= now) {
-        cout << 0 << endl;
-        return 0;
+    ll ans = inf;
+    for (int i = 0; i <= sum; i++) {
+        if (i > sum - i) {
+            ans = min(ans, dp[i]);
+        }
     }
-    auto comp = [&](pair<ll, ll> p, pair<ll, ll> q) {
-        return p.first * q.second < p.second * q.first;
-    };
-    sort(v.begin(), v.end(), comp);
-    int m = v.size();
-    ll ans = 0;
-    vector<vector<ll>> dp(m + 1, vector<ll> (2, 1e18));
-    dp[0][0] = 0;
-    for (int i = 0; i < m; i++) {
-        dp[i + 1][1] = dp[i][0] + v[i].
-    }
-
+    cout << ans << endl;
     return 0;
 }

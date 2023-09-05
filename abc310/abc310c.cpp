@@ -11,14 +11,22 @@ void fast_io() {
 
 int main(void) {
     fast_io();
-    int n, p, q;
-    cin >> n >> p >> q;
-    vector<int> d(n);
+    int n;
+    cin >> n;
+    set<string> st;
+    int ans = n;
     for (int i = 0; i < n; i++) {
-        cin >> d[i];
+        string s;
+        cin >> s;
+        if (st.count(s)) {
+            ans--;
+        } else {
+            st.insert(s);
+            string t = s;
+            reverse(t.begin(), t.end());
+            st.insert(t);
+        }
     }
-    sort(d.begin(), d.end());
-    int ans = min(p, q + d[0]);
     cout << ans << endl;
     return 0;
 }

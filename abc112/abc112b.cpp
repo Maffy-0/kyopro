@@ -11,14 +11,20 @@ void fast_io() {
 
 int main(void) {
     fast_io();
-    int n, p, q;
-    cin >> n >> p >> q;
-    vector<int> d(n);
+    int n, t;
+    cin >> n >> t;
+    int ans = 1e9;
     for (int i = 0; i < n; i++) {
-        cin >> d[i];
+        int a, b;
+        cin >> a >> b;
+        if (b <= t) {
+            ans = min(ans, a);
+        }
     }
-    sort(d.begin(), d.end());
-    int ans = min(p, q + d[0]);
-    cout << ans << endl;
+    if (ans == 1e9) {
+        cout << "TLE" << endl;
+    } else {
+        cout << ans << endl;
+    }
     return 0;
 }

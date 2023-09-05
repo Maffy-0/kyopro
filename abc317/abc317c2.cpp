@@ -14,7 +14,6 @@ int main(void) {
     fast_io();
     int n, m;
     cin >> n >> m;
-    vector<vector<int>> g(n);
     vector cost(n, vector<int>(n));
     for (int i = 0; i < m; i++) {
         int u, v, w;
@@ -23,20 +22,18 @@ int main(void) {
         cost[u][v] = cost[v][u] = w;
     }
     int ans = 0;
-    vector<bool> vis(n);
-    auto f = [&](auto f, int i, int sum) -> void {
-        vis[i] = true;
-        ans = max(ans, sum);
-        for (int j = 0; j < n; j++) {
-            if (cost[i][j] > 0 && !vis[j]) {
-                f(f, j, sum + cost[i][j]);
+    vector<int> p(n);
+    iota(p.begin(), p.end(), 0);
+    do {
+        int now = 0;
+        for (int i = 0; i < n - 1; i++) {
+            if (cost[p[i]][p[i + 1]] == 0) {
+                break;
             }
+            now += cost[p[i]][p[i + 1]];
         }
-        vis[i] = false;
-    };
-    for (int i = 0; i < n; i++) {
-        f(f, i, 0);
-    }
+        ans = max(ans, now);
+    } while (next_permutation(p.begin(), p.end()));
     cout << ans << endl;
     return 0;
 }
