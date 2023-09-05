@@ -13,18 +13,44 @@ int main(void) {
     fast_io();
     int n, m;
     cin >> n >> m;
-    vector<queue<int>> vq(m);
+    vector<queue<int>> p(202020);
+    vector<vector<int>> ids(202020);
+    queue<int> que;
     for (int i = 0; i < m; i++) {
         int k;
         cin >> k;
         for (int j = 0; j < k; j++) {
             int a;
             cin >> a;
-            vq[i].push(a); 
+            p[i].push(a);
+        }
+        int ni = p[i].front();
+        ids[ni].push_back(i);
+        if (ids[ni].size() == 2) {
+            que.push(ni);
         }
     }
-    while (1) {
-
+    int cnt = 0;
+    while (!que.empty()) {
+        int u = que.front();
+        que.pop();
+        cnt++;
+        for (int i : ids[u]) {
+            p[i].pop();
+            if (!p[i].empty()) {
+                int ni = p[i].front();
+                ids[ni].push_back(i);
+                if (ids[ni].size() == 2) {
+                    que.push(ni);
+                }
+            }
+        }
     }
+    if (cnt >= n) {
+        cout << "Yes\n";
+    } else {
+        cout << "No\n";
+    }
+
     return 0;
 }
