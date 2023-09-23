@@ -11,9 +11,15 @@ void make_test() {
     mt19937_64 rnd(seed_gen());
 
     // dist_N(x, y) ... x以上y以下の値をランダムに発生（例の場合4以上10以下）
-    uniform_int_distribution<int> A(200, 310);
-    int N = A(rnd);
-    cout << N << endl;
+    uniform_int_distribution<int> dist_N(4, 10), dist_A(1, 20);
+    int N = dist_N(rnd);
+    vector<int> A(N);
+    for (int i = 0; i < N; i++) {
+        A[i] = dist_A(rnd);
+    }
+    for (int i = 0; i < N; i++) {
+        cout << A[i] << " \n"[i == N - 1];
+    }
 }
 
 int main(void) {
