@@ -2,23 +2,26 @@
 #include <atcoder/all>
 using namespace std;
 using namespace atcoder;
-using ll = long long;
 
 void fast_io() {
     cin.tie(nullptr);
     ios_base::sync_with_stdio(false);
 }
 
+int N, A;
+
 int main(void) {
     fast_io();
-    int n, p, q;
-    cin >> n >> p >> q;
-    vector<int> d(n);
-    for (int i = 0; i < n; i++) {
-        cin >> d[i];
+    cin >> N;
+    const int M = N * 3;
+    map<int, int> mp;
+    for (int i = 0; i < M; i++) {
+        cin >> A;
+        mp[A]++;
+        if (mp[A] == 2) {
+            cout << A << " ";
+        }
     }
-    sort(d.begin(), d.end());
-    int ans = min(p, q + d[0]);
-    cout << ans << endl;
+    cout << endl;
     return 0;
 }
