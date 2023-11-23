@@ -15,6 +15,86 @@ struct edge {
     ll cost;
 };
 
+template<class T> struct UnionFind {
+    vector<int> par;
+    vector<int> rank;
+    vector<T> dw;
+
+    UnionFind(int N = 1, T sum = 0) {
+        init(N, sum);
+    }
+
+    void init(int N = 1, T sum = 0) {
+        par.resize(N);
+        rank.resize(N);
+        dw.resize(N);
+        for (int i = 0; i < N; i++) {
+            par[i] = i;
+            rank[i] = 0;
+            dw[i] = sum;
+        }
+    }
+
+    int root(int x) {
+        if (par[x] == x) {
+            return x;
+        } else {
+            int r = root(par[x]);
+            dw[x] += dw[par[x]];
+            return par[x] = r;
+        }
+    }
+
+    T weight(int x) {
+        root(x);
+        return dw[x];
+    }
+
+    bool same(int x, int y) {
+        return root(x) == root(y);
+    }
+
+    bool merge(int x, int y) {
+        x = root(x);
+        y = root(y);
+        if (x == y) {
+            return false;
+        }
+        if (rank[x] < rank[y]) {
+            swap(x, y);
+        }
+        if (rank[x] == rank[y]) {
+            rank[x]++;
+        }
+        par[y] = x;
+        return true; 
+    }
+
+    bool merge(int x, int y, T w) {
+        w += weight(x);
+        w -= weight(y);
+        x = root(x);
+        y = root(y);
+        if (x == y) {
+            return false;
+        }
+        if (rank[x] < rank[y]) {
+            swap(x, y);
+            w = -w;
+        }
+        if (rank[x] == rank[y]) {
+            rank[x]++;
+        }
+        par[y] = x;
+        dw[y] = w;
+        return true; 
+    }
+
+    T diff(int x, int y) {
+        return weight(y) - weight(x);
+    }
+};
+
 // ダイクストラ法
 // distは頂点数と同じサイズ、すべてINFで初期化
 // 頂点startIndexから頂点targetIndexまでの最短経路をpathに収納する

@@ -1,5 +1,8 @@
+#include <atcoder/all>
 #include <bits/stdc++.h>
 using namespace std;
+using namespace atcoder;
+using ll = long long;
 
 void fast_io() {
     cin.tie(nullptr);
@@ -7,9 +10,9 @@ void fast_io() {
 }
 
 struct Integer {
-    long long n;
+    ll n;
 
-    bool isPrime(long long n) {
+    bool isPrime(ll n) {
         assert(n >= 1);
         if (n == 1) {
             return false;
@@ -19,7 +22,7 @@ struct Integer {
             return false;
         }
         double a = sqrt(n);
-        for (long long i = 3; i <= a; i += 2) {
+        for (ll i = 3; i <= a; i += 2) {
             if (n % i == 0) {
                 return false;
             }
@@ -27,13 +30,13 @@ struct Integer {
         return true;
     }
 
-    vector<pair<long long, long long>> prime_factorize(long long n) {
-        vector<pair<long long, long long>> res;
-        for (long long p = 2; p * p <= n; p++) {
+    vector<pair<ll, ll>> prime_factorize(ll n) {
+        vector<pair<ll, ll>> res;
+        for (ll p = 2; p * p <= n; p++) {
             if (n % p != 0) {
                 continue;
             }
-            long long e = 0;
+            ll e = 0;
             while (n % p == 0) {
                 e++;
                 n /= p;
@@ -46,9 +49,9 @@ struct Integer {
         return res;
     }
 
-    vector<long long> divisors(long long n) {
-        vector<long long> res;
-        for (long long i = 1; i * i <= n; i++) {
+    vector<ll> divisors(ll n) {
+        vector<ll> res;
+        for (ll i = 1; i * i <= n; i++) {
             if (n % i == 0) {
                 res.push_back(i);
                 if (i * i != n) {
@@ -60,16 +63,16 @@ struct Integer {
         return res;
     }
 
-    bool isSquare(long long n) {
-        long long d = (long long)sqrt(n) - 1;
+    bool isSquare(ll n) {
+        ll d = (ll)sqrt(n) - 1;
         while (d * d < n) {
             ++d;
         }
         return d * d == n;
     }
 
-    vector<long long> getPrimes(long long n) {
-        vector<long long> primes;
+    vector<ll> getPrimes(ll n) {
+        vector<ll> primes;
         vector<bool> isP(n + 1, true);
         for (int i = 2; i <= n; i++) {
             if (isP[i]) {
@@ -98,8 +101,12 @@ struct Integer {
         } while (y != 0);
         return res;
     }
-    
-    long long factorial(long long n) {
+
+    ll nc2(ll n) { return n * (n - 1) / 2; }
+
+    ll nc3(ll n) { return n * (n - 1) * (n - 2) / 6; }
+
+    ll factorial(ll n) {
         if (n == 1) {
             return 1;
         } else {

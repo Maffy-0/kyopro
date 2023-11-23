@@ -2,25 +2,22 @@
 #include <atcoder/all>
 using namespace std;
 using namespace atcoder;
-using ll = long long;
 
 void fast_io() {
     cin.tie(nullptr);
     ios_base::sync_with_stdio(false);
 }
 
-long long A, B, K;
+int A, B, C;
 int main(void) {
     fast_io();
-    cin >> A >> B >> K;
-    int ans = 0;
-    while (1) {
-        if (A >= B) {
-            break;
+    cin >> A >> B >> C;
+    for (int i = A; i <= B; i++) {
+        if (i % C == 0) {
+            cout << i << endl;
+            return 0;
         }
-        A *= K;
-        ans++;
     }
-    cout << ans << endl;
+    cout << -1 << endl;
     return 0;
 }
