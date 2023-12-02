@@ -8,9 +8,9 @@ void fast_io() {
     ios_base::sync_with_stdio(false);
 }
 
-long long N, X[202020], Y[202020];
+int N, X[202020], Y[202020];
 string S;
-map<long long, set<long long>> L, R;
+map<int, vector<pair<int, char>>> mp;
 
 int main(void) {
     fast_io();
@@ -20,28 +20,17 @@ int main(void) {
     }
     cin >> S;
     for (int i = 0; i < N; i++) {
-        if (S[i] == 'L') {
-            L[Y[i]].insert(X[i]);
-        } else {
-            R[Y[i]].insert(-X[i]);
-        }
+        mp[Y[i]].emplace_back(X[i], S[i]);
     }
     bool ok = false;
-    for (int i = 0; i < N; i++) {
-        if (S[i] == 'L') {
-            if (!R[Y[i]].empty()) {
-                long long RMax = *R[Y[i]].begin();
-                RMax = -RMax;
-                if (RMax < X[i]) {
-                    ok = true;
-                }
-            }
-        } else {
-            if (!L[Y[i]].empty()) {
-                long long LMin = *L[Y[i]].begin();
-                if (LMin > X[i]) {
-                    ok = true;
-                }
+    for (auto [id, v] : mp) {
+        sort(v.begin(), v.end());
+        int M = v.size();
+        for (int i = 0; i < M - 1; i++) {
+            auto [x, c] = v[i];
+            auto [xx, cc] = v[i + 1];
+            if (c == 'R' && cc == 'L') {
+                ok = true;
             }
         }
     }
