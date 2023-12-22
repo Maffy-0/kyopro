@@ -18,3 +18,5 @@ do
     cp "../atcoder.cpp" "$filename"
     echo "Created file: $filename"
 done
+
+code abc*

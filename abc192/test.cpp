@@ -8,8 +8,11 @@ void fast_io() {
     ios_base::sync_with_stdio(false);
 }
 
-
 int main(void) {
     fast_io();
+    string S('1', 60);
+    cout << S << endl;
+    long M = 1e18;
+    cout << M << endl;
     return 0;
 }
