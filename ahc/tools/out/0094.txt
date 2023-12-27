@@ -1,0 +1,5982 @@
+# eval (choose cm): 1e+08
+# card type : 1
+0 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0909090909
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1100000000
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1358024691
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1718750000
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.2244897959
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.3055555556
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.4400000000
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.6875000000
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 1.2222222222
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 2.7500000000
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0238222222
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0244704164
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0251454307
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0258487654
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0265820274
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0273469388
+# card type : 0
+0 1
+# selected card type 0
+# e 1.5416666667
+2
+# eval (choose cm): 0.0281453476
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1308593750
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1394380853
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1488888889
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1593341260
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1709183673
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1838134431
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1982248521
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.2144000000
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.2326388889
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.2533081285
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.2768595041
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.3038548753
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.3350000000
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.3711911357
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.4135802469
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.4636678201
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.5234375000
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.5955555556
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.6836734694
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.7928994083
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.9305555556
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 1.1074380165
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 1.3400000000
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 1.6543209877
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 2.0937500000
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 2.7346938776
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 3.7222222222
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 5.3600000000
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 8.3750000000
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 14.8888888889
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 33.5000000000
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0124653740
+# card type : 0
+0 7
+# selected card type 1
+# e 76.0000000000
+3
+# eval (choose cm): 0.0677019980
+# card type : 1
+0 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0555555556
+# card type : 0
+0 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0622837370
+# card type : 0
+0 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0703125000
+# card type : 0
+0 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0800000000
+# card type : 0
+0 7
+# selected card type 0
+# e 1.5714285714
+2
+# eval (choose cm): 0.0918367347
+# card type : 0
+0 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 2.0000000000
+# card type : 0
+0 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 4.5000000000
+# card type : 0
+0 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+0 7
+# selected card type 0
+# e 1.8260869565
+2
+# eval (choose cm): 0.0207100592
+# card type : 0
+0 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.5600000000
+# card type : 0
+0 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.6913580247
+# card type : 0
+0 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.8750000000
+# card type : 0
+0 7
+# selected card type 1
+# e 2.0900900901
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+0 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0357554787
+# card type : 0
+0 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0372000000
+# card type : 0
+0 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0387338609
+# card type : 0
+0 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0403645833
+# card type : 0
+0 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0421004980
+# card type : 0
+0 2
+# selected card type 0
+# e 1.9473684211
+4
+# eval (choose cm): 0.0439508507
+# card type : 0
+0 2
+# selected card type 0
+# e 2.0000000000
+3
+# eval (choose cm): 1.1481481481
+# card type : 0
+0 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 3.7200000000
+# card type : 0
+0 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 5.8125000000
+# card type : 0
+0 2
+# selected card type 0
+# e 2.0769230769
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+0 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0495867769
+# card type : 0
+0 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0544217687
+# card type : 0
+0 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0600000000
+# card type : 0
+0 2
+# selected card type 0
+# e 2.0555555556
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+0 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0204938272
+# card type : 0
+0 3
+# selected card type 1
+# e 1.5157894737
+1
+# eval (choose cm): 0.1186701449
+# card type : 1
+0 0
+# selected card type 0
+# e 1.8750000000
+3
+# eval (choose cm): 0.0329299742
+# card type : 0
+0 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0529336735
+# card type : 0
+0 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0548760331
+# card type : 0
+0 3
+# selected card type 0
+# e 2.0869565217
+2
+# eval (choose cm): 0.0569272977
+# card type : 0
+0 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 4.6111111111
+# card type : 0
+0 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 6.6400000000
+# card type : 0
+0 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 10.3750000000
+# card type : 0
+0 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 18.4444444444
+# card type : 0
+0 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 41.5000000000
+# card type : 0
+0 3
+# selected card type 0
+# e 2.4000000000
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+0 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0692041522
+# card type : 0
+0 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0781250000
+# card type : 0
+0 3
+# selected card type 1
+# e 1.7021276596
+4
+# eval (choose cm): 0.2297397031
+# card type : 1
+0 0
+# selected card type 0
+# e 2.2631578947
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+0 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0378787879
+# card type : 0
+0 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0390532544
+# card type : 0
+0 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0402832031
+# card type : 0
+0 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0415721844
+# card type : 0
+0 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0429240375
+# card type : 0
+0 6
+# selected card type 1
+# e 2.7586206897
+4
+# eval (choose cm): 0.2090412022
+# card type : 1
+0 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1953125000
+# card type : 0
+0 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.2222222222
+# card type : 0
+0 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.2551020408
+# card type : 0
+0 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.2958579882
+# card type : 0
+0 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.3472222222
+# card type : 0
+0 3
+# selected card type 0
+# e 2.4705882353
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+0 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.4132231405
+# card type : 0
+0 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.5000000000
+# card type : 0
+0 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.6172839506
+# card type : 0
+0 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.7812500000
+# card type : 0
+0 3
+# selected card type 1
+# e 1.6190476190
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+0 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.4081632653
+# card type : 0
+0 6
+# selected card type 1
+# e 1.7254901961
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+0 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 39.0000000000
+# card type : 0
+0 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+0 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 13.6666666667
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 30.7500000000
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 3.9183673469
+# card type : 0
+0 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 5.3333333333
+# card type : 0
+0 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 7.6800000000
+# card type : 0
+0 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 12.0000000000
+# card type : 0
+0 0
+# selected card type 1
+# e 2.5000000000
+3
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+0 0
+# GAGAPI-GAGA
+3
+# eval (choose cm): 1000000000.0000000000
+# card type : 4
+0 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.7093425606
+# card type : 0
+0 4
+# selected card type 1
+# e 2.0779220779
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+0 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 3.5555555556
+# card type : 0
+0 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+0 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0326086957
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0340740741
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0356404959
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0373174689
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0391156463
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0410469958
+# card type : 0
+0 1
+# selected card type 1
+# e 2.7248908297
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+0 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+0 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1404958678
+# card type : 0
+0 5
+# GAGAPI-GAGA
+1
+# eval (choose cm): 1000000000.0000000000
+# card type : 4
+0 0
+# selected card type 0
+# e 4.9230769231
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+0 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1700000000
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.2656250000
+# card type : 0
+0 5
+# selected card type 1
+# e 3.3129411765
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+0 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 2.0600000000
+# card type : 0
+0 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 5.7222222222
+# card type : 0
+0 7
+# selected card type 1
+# e 1.5360000000
+1
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+0 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 2.8333333333
+# card type : 0
+0 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 6.3750000000
+# card type : 0
+0 0
+# selected card type 0
+# e 1.7777777778
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+0 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1718750000
+# card type : 0
+0 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.3055555556
+# card type : 0
+0 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.6875000000
+# card type : 0
+0 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+0 4
+# selected card type 0
+# e 2.6666666667
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0500000000
+# card type : 0
+0 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0781250000
+# card type : 0
+0 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1388888889
+# card type : 0
+0 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.3125000000
+# card type : 0
+0 4
+# selected card type 1
+# e 2.2748815166
+3
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+0 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0537109375
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0611111111
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0701530612
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0813609467
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0954861111
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1136363636
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1375000000
+# card type : 0
+0 5
+# selected card type 0
+# e 1.5384615385
+1
+# eval (choose cm): 0.1697530864
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.8593750000
+# card type : 0
+0 5
+# selected card type 0
+# e 1.9405940594
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+0 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 1.5277777778
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 3.4375000000
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+0 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 10101.0000000000
+# card type : 3
+1 0
+# GAGAPI-GAGA
+4
+# eval (choose cm): 1000000000.0000000000
+# card type : 4
+1 0
+# selected card type 0
+# e 1.9027027027
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0400000000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1111111111
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0155325444
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0182291667
+# card type : 0
+1 1
+# selected card type 1
+# e 1.5978975033
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0920138889
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1325000000
+# card type : 0
+1 3
+# selected card type 0
+# e 1.8823529412
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 5
+# selected card type 1
+# e 1.5802469136
+3
+# eval (choose cm): 0.2701029567
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.8281250000
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0484764543
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0605536332
+# card type : 0
+1 0
+# selected card type 0
+# e 2.9473684211
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0400000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0625000000
+# card type : 0
+1 1
+# selected card type 0
+# e 2.9268292683
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 1
+# e 1.9606126915
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0350000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0546875000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0972222222
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.2187500000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0331632653
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0384615385
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0451388889
+# card type : 0
+1 0
+# selected card type 0
+# e 1.9393939394
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0537190083
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0650000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0802469136
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1015625000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1326530612
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1805555556
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.2600000000
+# card type : 0
+1 0
+# selected card type 1
+# e 8.8350168350
+3
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1562500000
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1929012346
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.2441406250
+# card type : 0
+1 7
+# selected card type 1
+# e 1.5963718821
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0702662722
+# card type : 0
+1 6
+# selected card type 0
+# e 2.3703703704
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0824652778
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0981404959
+# card type : 0
+1 6
+# selected card type 1
+# e 4.4695393759
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0350000000
+# card type : 0
+1 6
+# selected card type 1
+# e 1.4537945276
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0662500000
+# card type : 0
+1 1
+# selected card type 0
+# e 3.7647058824
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0817901235
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1035156250
+# card type : 0
+1 1
+# selected card type 0
+# e 2.0495867769
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1352040816
+# card type : 0
+1 1
+# selected card type 0
+# e 1.7078651685
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# GAGAPI-GAGA
+3
+# eval (choose cm): 1000000000.0000000000
+# card type : 4
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0312500000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0703125000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.9692307692
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4906832298
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0132716049
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0145348837
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0159875074
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0176692965
+# card type : 0
+1 7
+# selected card type 1
+# e 5.6888888889
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0078125000
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0138888889
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0312500000
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0054081633
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0057309689
+# card type : 0
+1 1
+# selected card type 1
+# e 3.5866900175
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0283203125
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0322222222
+# card type : 0
+1 3
+# selected card type 1
+# e 2.7104287983
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.5130784708
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0061728395
+# card type : 0
+1 7
+# selected card type 1
+# e 1.8991097923
+3
+# eval (choose cm): 0.0136422417
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0555555556
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1250000000
+# card type : 0
+1 7
+# GAGAPI-GAGA
+3
+# eval (choose cm): 1000000000.0000000000
+# card type : 4
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 7
+# selected card type 1
+# e 5.1399888455
+3
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1481481481
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.2448979592
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.4800000000
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 1.3333333333
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0383300781
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0500637755
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0681423611
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0981250000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1533203125
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.2725694444
+# card type : 0
+1 0
+# selected card type 0
+# e 1.6379525593
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 4
+# selected card type 1
+# e 1.4990240729
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0062500000
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0097656250
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0173611111
+# card type : 0
+1 4
+# selected card type 1
+# e 4.3540437348
+1
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.8285714286
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0184461806
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0219524793
+# card type : 0
+1 7
+# selected card type 1
+# e 3.1330112721
+3
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 1
+# e 1.7767495662
+3
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0112304688
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0146683673
+# card type : 0
+1 0
+# selected card type 0
+# e 2.4615384615
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0199652778
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4636174636
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.6440366972
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0063775510
+# card type : 0
+1 6
+# selected card type 0
+# e 1.6533907427
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0086805556
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0125000000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0195312500
+# card type : 0
+1 6
+# selected card type 1
+# e 3.0405370514
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0050000000
+# card type : 0
+1 6
+# selected card type 1
+# e 1.4698891708
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0051632785
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0054809458
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0058288574
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0062109781
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0066319444
+# card type : 0
+1 7
+# selected card type 1
+# e 2.2478048780
+4
+# eval (choose cm): 0.0170426045
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0781250000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.6494845361
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0149218750
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0165339335
+# card type : 0
+1 7
+# selected card type 1
+# e 1.8088508739
+1
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0189200680
+# card type : 0
+1 4
+# GAGAPI-GAGA
+2
+# eval (choose cm): 1000000000.0000000000
+# card type : 4
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0208593750
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0257523148
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0325927734
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0425701531
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0579427083
+# card type : 0
+1 4
+# selected card type 0
+# e 2.2412451362
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0066581633
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0074896694
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0084872529
+# card type : 0
+1 5
+# selected card type 1
+# e 4.8411099692
+3
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0166015625
+# card type : 0
+1 2
+# selected card type 1
+# e 1.8327367393
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.1962500000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.5991671005
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 6
+# GAGAPI-GAGA
+3
+# eval (choose cm): 1000000000.0000000000
+# card type : 4
+1 0
+# selected card type 0
+# e 1.7482926829
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0027006173
+# card type : 0
+1 3
+# selected card type 1
+# e 2.3696846977
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 1
+# e 1.5237150474
+1
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0019531250
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0034722222
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0078125000
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0006202741
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0006779442
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0007440476
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0008203125
+# card type : 0
+1 2
+# selected card type 0
+# e 2.9966555184
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0004064776
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0004340278
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0004644768
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0004982462
+# card type : 0
+1 4
+# selected card type 0
+# e 4.4956097561
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0005358368
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0005778476
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0006250000
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0006781684
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4996338784
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0007384216
+# card type : 0
+1 4
+# selected card type 1
+# e 2.1810436635
+4
+# eval (choose cm): 0.0017734174
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4540291090
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 4
+# selected card type 1
+# e 1.7339234174
+3
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.8116154222
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0015625000
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0024414062
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0043402778
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0097656250
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0013281250
+# card type : 0
+1 3
+# selected card type 0
+# e 2.2456140351
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0019531250
+# card type : 0
+1 3
+# selected card type 1
+# e 1.7726485863
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0032286352
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0037444527
+# card type : 0
+1 2
+# selected card type 0
+# e 1.7910836316
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.6184455188
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0009566327
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0013020833
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0018750000
+# card type : 0
+1 7
+# selected card type 1
+# e 1.5721833371
+3
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4941634241
+4
+# eval (choose cm): 0.0065612793
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0099389793
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0116644965
+# card type : 0
+1 1
+# selected card type 1
+# e 2.6597402597
+1
+# eval (choose cm): 0.0155192737
+# card type : 1
+1 0
+# selected card type 1
+# e 1.4535131299
+3
+# eval (choose cm): 0.0186291907
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0262451172
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0342793367
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0466579861
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0671875000
+# card type : 0
+1 1
+# selected card type 0
+# e 2.1416620190
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0010976240
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0013281250
+# card type : 0
+1 6
+# selected card type 1
+# e 2.0739740560
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0014061065
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0014953613
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0015933923
+# card type : 0
+1 4
+# selected card type 0
+# e 1.9993208829
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0003658747
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0003890991
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0004146072
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0004427083
+# card type : 0
+1 7
+# selected card type 0
+# e 3.6571428571
+4
+# eval (choose cm): 0.0004737663
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0012297454
+# card type : 0
+1 7
+# GAGAPI-GAGA
+3
+# eval (choose cm): 1000000000.0000000000
+# card type : 4
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0013786765
+# card type : 0
+1 7
+# selected card type 0
+# e 1.6644993498
+3
+# eval (choose cm): 0.0017708333
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0159375000
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0442708333
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 7
+# selected card type 0
+# e 2.0472382369
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0001947715
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0002170139
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0002432958
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0002746582
+# card type : 0
+1 7
+# selected card type 1
+# e 2.2260113447
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0057870370
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0095663265
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0187500000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0520833333
+# card type : 0
+1 6
+# selected card type 0
+# e 1.5170370370
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0006924822
+# card type : 0
+1 3
+# selected card type 0
+# e 2.2136680614
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0003985969
+# card type : 0
+1 0
+# selected card type 0
+# e 1.7686993091
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0003396346
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4759159383
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.6360731404
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0004272461
+# card type : 0
+1 0
+# selected card type 0
+# e 2.9883268482
+1
+# eval (choose cm): 0.0005580357
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0017089844
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4997558991
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0003547277
+# card type : 0
+1 1
+# selected card type 0
+# e 1.9922178988
+1
+# eval (choose cm): 0.0003708496
+# card type : 0
+1 1
+# selected card type 0
+# e 1.7139668960
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0004065744
+# card type : 0
+1 1
+# selected card type 0
+# e 1.7770065076
+4
+# eval (choose cm): 0.0004264044
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0011293733
+# card type : 0
+1 1
+# selected card type 0
+# e 2.3524006432
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 1
+# e 1.6355271610
+1
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0069754464
+# card type : 0
+1 4
+# selected card type 1
+# e 1.8455992791
+1
+# eval (choose cm): 0.0117890673
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0379774306
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0854492188
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 4
+# selected card type 0
+# e 2.5989847716
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0011935764
+# card type : 0
+1 2
+# selected card type 1
+# e 1.5172073184
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0014453125
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0017843364
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0022583008
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0029496173
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0040147569
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0057812500
+# card type : 0
+1 7
+# GAGAPI-GAGA
+4
+# eval (choose cm): 1000000000.0000000000
+# card type : 4
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0090332031
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0009375000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0026041667
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0003919766
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0005034722
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4995118776
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0002538005
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0002758601
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0003009259
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0003295700
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0003625074
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0004006410
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0004451242
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0004974490
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0005595730
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0006341051
+# card type : 0
+1 5
+# selected card type 0
+# e 1.6920534775
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 5
+# selected card type 1
+# e 2.9166073281
+3
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0056423611
+# card type : 0
+1 2
+# selected card type 0
+# e 1.9980487805
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0008292144
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0009475327
+# card type : 0
+1 4
+# selected card type 1
+# e 1.7390565958
+3
+# eval (choose cm): 0.0024179330
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4760531945
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0124782986
+# card type : 0
+1 3
+# selected card type 1
+# e 2.6665645464
+1
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0698784722
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0007324219
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0013020833
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0029296875
+# card type : 0
+1 5
+# selected card type 1
+# e 1.7517998432
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0002710459
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0002872243
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0003048955
+# card type : 0
+1 0
+# selected card type 1
+# e 2.4532694461
+1
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4613189124
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0021922832
+# card type : 0
+1 2
+# selected card type 1
+# e 1.6409434624
+1
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0449218750
+# card type : 0
+1 4
+# GAGAPI-GAGA
+1
+# eval (choose cm): 1000000000.0000000000
+# card type : 4
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 4
+# selected card type 0
+# e 2.1873664937
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0004340278
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0009765625
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0002790179
+# card type : 0
+1 3
+# selected card type 0
+# e 2.7057269229
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 1
+# e 1.7698962087
+1
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 3.9980478282
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000544777
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000597895
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000659180
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000730393
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000813802
+# card type : 0
+1 7
+# selected card type 0
+# e 2.3325740319
+3
+# eval (choose cm): 0.0000912359
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0002636719
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0003255208
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0004119873
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0005381059
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0007324219
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0010546875
+# card type : 0
+1 7
+# selected card type 0
+# e 1.5624523177
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0016479492
+# card type : 0
+1 7
+# selected card type 1
+# e 2.6194463889
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000911458
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000975401
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0001046317
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0001125257
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0001213480
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0001312500
+# card type : 0
+1 3
+# selected card type 0
+# e 1.8499096724
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000870894
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000934212
+# card type : 0
+1 5
+# selected card type 0
+# e 2.8459400586
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0001004694
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0001083464
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0001171875
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0001271566
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0001384540
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0001513268
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0001660821
+# card type : 0
+1 5
+# selected card type 1
+# e 1.8888632695
+3
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0081380208
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0183105469
+# card type : 0
+1 5
+# selected card type 1
+# e 2.1817858992
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0003930664
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0004355306
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0004852672
+# card type : 0
+1 0
+# selected card type 1
+# e 3.9539786057
+1
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0003706068
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0004129292
+# card type : 0
+1 7
+# selected card type 1
+# e 1.6540016235
+3
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# GAGAPI-GAGA
+1
+# eval (choose cm): 1000000000.0000000000
+# card type : 4
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0001781657
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0002078125
+# card type : 0
+1 6
+# selected card type 0
+# e 1.6428284942
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0002455252
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0002945188
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0003597862
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0004494215
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0005772569
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0007685374
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4996338784
+4
+# eval (choose cm): 0.0010734117
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0051953125
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0144314236
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 6
+# GAGAPI-GAGA
+4
+# eval (choose cm): 1000000000.0000000000
+# card type : 4
+1 0
+# selected card type 0
+# e 1.7999560558
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0001068115
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000710001
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000966390
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0001391602
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0002174377
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0003865560
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0008697510
+# card type : 0
+1 1
+# selected card type 0
+# e 1.8124723439
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000534509
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000746546
+# card type : 0
+1 4
+# selected card type 1
+# e 2.0952259160
+1
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.9999804689
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000907961
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4998169169
+2
+# eval (choose cm): 0.0001098633
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0002242108
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4545346936
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.6315579827
+3
+# eval (choose cm): 0.0000050347
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000146283
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000153166
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000160546
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000168473
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000177002
+# card type : 0
+1 0
+# selected card type 0
+# e 2.4999660920
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 2.9998779347
+1
+# eval (choose cm): 0.0000045340
+# card type : 0
+1 3
+# selected card type 0
+# e 1.7142558200
+2
+# eval (choose cm): 0.0000082163
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000283378
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000304757
+# card type : 0
+1 3
+# selected card type 0
+# e 1.9999804689
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 3
+# selected card type 1
+# e 2.5097979143
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000423177
+# card type : 0
+1 7
+# selected card type 0
+# e 3.0768652932
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000678168
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000976563
+# card type : 0
+1 1
+# selected card type 1
+# e 1.4640499514
+1
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000226324
+# card type : 0
+1 0
+# selected card type 0
+# e 1.6071288441
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000238419
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000271267
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000311404
+# card type : 0
+1 0
+# selected card type 0
+# e 2.3331434616
+2
+# eval (choose cm): 0.0000361155
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0001695421
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0002441406
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0003814697
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0006781684
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0015258789
+# card type : 0
+1 0
+# selected card type 1
+# e 1.5304315336
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0013427734
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000419617
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000477431
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000548071
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000635632
+# card type : 0
+1 3
+# selected card type 1
+# e 2.7618967346
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0003735352
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0004611545
+# card type : 0
+1 5
+# selected card type 0
+# e 2.1666225866
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 5
+# selected card type 0
+# e 2.1363399288
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 6
+# selected card type 0
+# e 4.9987795948
+1
+# eval (choose cm): 0.0000859013
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0001646866
+# card type : 0
+1 4
+# selected card type 1
+# e 3.5428447864
+3
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000762939
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0001356337
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0003051758
+# card type : 0
+1 0
+# GAGAPI-GAGA
+4
+# eval (choose cm): 1000000000.0000000000
+# card type : 4
+1 0
+# selected card type 1
+# e 6.5882195250
+3
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000819434
+# card type : 0
+1 6
+# selected card type 1
+# e 1.4656474892
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 1
+# e 1.4871783235
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000270329
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000305176
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000347222
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000398597
+# card type : 0
+1 2
+# selected card type 0
+# e 2.8999646000
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 7
+# selected card type 0
+# e 1.7916575538
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 6
+# selected card type 1
+# e 1.4545442129
+1
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# GAGAPI-GAGA
+2
+# eval (choose cm): 1000000000.0000000000
+# card type : 4
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000564954
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000843943
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0001395089
+# card type : 0
+1 3
+# selected card type 1
+# e 1.9999898275
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.5999804690
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000190735
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000339084
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000762939
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000100708
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000124331
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4999542250
+4
+# eval (choose cm): 0.0000157356
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000402832
+# card type : 0
+1 6
+# selected card type 0
+# e 2.1666446264
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000093998
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000107410
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000123912
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000144531
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000170760
+# card type : 0
+1 0
+# selected card type 0
+# e 4.8888557342
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 7
+# selected card type 1
+# e 1.4545373838
+4
+# eval (choose cm): 0.0000464132
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000312568
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000401476
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000534509
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000746546
+# card type : 0
+1 0
+# selected card type 0
+# e 2.1666593199
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0001115210
+# card type : 0
+1 0
+# selected card type 0
+# e 2.1052563950
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 3.6249723437
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 2
+# selected card type 1
+# e 1.9999694829
+3
+# eval (choose cm): 0.0000264287
+# card type : 1
+1 0
+# selected card type 1
+# e 2.0923057276
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 1
+# e 1.5319129042
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 1
+# e 1.5238050950
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 2.1249837877
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000073353
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000080872
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000089608
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000099841
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000111933
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000126362
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000143772
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4999542250
+3
+# eval (choose cm): 0.0000165044
+# card type : 0
+1 0
+# selected card type 0
+# e 1.9090803163
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000032659
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000035033
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000037676
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000040630
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000043945
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000047684
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000051920
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000056748
+# card type : 0
+1 5
+# selected card type 0
+# e 1.9999389667
+2
+# eval (choose cm): 0.0000062281
+# card type : 0
+1 5
+# selected card type 0
+# e 1.5555450063
+4
+# eval (choose cm): 0.0000095037
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0003051758
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0006866455
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000015576
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4999542250
+3
+# eval (choose cm): 0.0000016276
+# card type : 0
+1 2
+# selected card type 0
+# e 1.6249938011
+4
+# eval (choose cm): 0.0000018684
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000128746
+# card type : 0
+1 2
+# selected card type 0
+# e 1.5806420492
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000010861
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000011328
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000011826
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000012358
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000012926
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000013534
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000014186
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000014887
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000015640
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000016453
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000017330
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000018279
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000019309
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000020428
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000021647
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000022979
+# card type : 0
+1 0
+# selected card type 1
+# e 2.0869537527
+2
+# eval (choose cm): 0.0000064604
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000062561
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000069320
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000077236
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000086590
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000097752
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000111220
+# card type : 0
+1 0
+# selected card type 1
+# e 5.6615331453
+1
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 1
+# e 1.8461451785
+3
+# eval (choose cm): 0.0000655281
+# card type : 1
+1 0
+# selected card type 0
+# e 5.9996338114
+4
+# eval (choose cm): 0.0000600815
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0009613037
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000211589
+# card type : 0
+1 4
+# selected card type 0
+# e 1.7142782406
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000120563
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000152588
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000199298
+# card type : 0
+1 0
+# selected card type 0
+# e 1.7499732975
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.7142782406
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 4
+# selected card type 1
+# e 1.9340652855
+3
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000361690
+# card type : 0
+1 6
+# selected card type 0
+# e 7.8332536494
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4999885560
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4999771122
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000073242
+# card type : 0
+1 3
+# selected card type 1
+# e 2.5142813297
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000190735
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000339084
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000762939
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 3
+# selected card type 0
+# e 2.1666556465
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 2
+# selected card type 0
+# e 2.3529327287
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000146484
+# card type : 0
+1 2
+# selected card type 0
+# e 1.9999877930
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 2
+# selected card type 0
+# e 2.8999822999
+1
+# eval (choose cm): 0.0000024100
+# card type : 0
+1 2
+# selected card type 1
+# e 1.7582411686
+1
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# GAGAPI-GAGA
+4
+# eval (choose cm): 1000000000.0000000000
+# card type : 4
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000369225
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000610352
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0001196289
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0003323025
+# card type : 0
+1 5
+# selected card type 0
+# e 4.3333186397
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 5
+# selected card type 0
+# e 1.6333316718
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 7
+# selected card type 0
+# e 1.5454502579
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000061035
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000095367
+# card type : 0
+1 1
+# selected card type 0
+# e 1.6521717209
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000169542
+# card type : 0
+1 1
+# selected card type 0
+# e 1.9999949137
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000381470
+# card type : 0
+1 1
+# selected card type 0
+# e 1.9999389667
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000057220
+# card type : 0
+1 7
+# selected card type 0
+# e 1.6666610153
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 1
+# e 4.9729688713
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000949436
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0002136230
+# card type : 0
+1 1
+# selected card type 0
+# e 2.2272696377
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# GAGAPI-GAGA
+3
+# eval (choose cm): 1000000000.0000000000
+# card type : 4
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000050863
+# card type : 0
+1 2
+# selected card type 0
+# e 3.4285639549
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000114441
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 2
+# selected card type 0
+# e 1.9999956404
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000015570
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000021193
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4583324062
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000030518
+# card type : 0
+1 2
+# selected card type 0
+# e 2.4999936422
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000015259
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000023842
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000042386
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000095367
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 7
+# selected card type 1
+# e 1.7142838459
+1
+# eval (choose cm): 0.0000029310
+# card type : 1
+1 0
+# selected card type 1
+# e 3.2499984503
+4
+# eval (choose cm): 0.0000035582
+# card type : 1
+1 0
+# selected card type 0
+# e 1.7368407104
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.9999923706
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000029004
+# card type : 0
+1 4
+# selected card type 0
+# e 2.6999958801
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.9999956404
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000030518
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000047684
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000084771
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000190735
+# card type : 0
+1 4
+# selected card type 1
+# e 2.3859642736
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 1
+# e 1.9591830634
+3
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.5217381209
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000055076
+# card type : 0
+1 7
+# selected card type 1
+# e 2.5806438910
+4
+# eval (choose cm): 0.0000082830
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0002326965
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000010498
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000011391
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000012403
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000013556
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000014878
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000016403
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000018175
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000020251
+# card type : 0
+1 6
+# selected card type 0
+# e 1.9999847413
+2
+# eval (choose cm): 0.0000022703
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4999885560
+1
+# eval (choose cm): 0.0000038824
+# card type : 0
+1 6
+# selected card type 0
+# e 14.9997711217
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000010171
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000010644
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000011151
+# card type : 0
+1 1
+# selected card type 1
+# e 1.9999974569
+3
+# eval (choose cm): 0.0000025612
+# card type : 1
+1 0
+# selected card type 0
+# e 18.9997100874
+3
+# eval (choose cm): 0.0000013589
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000052969
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000058851
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000065768
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000073982
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000083836
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000095798
+# card type : 0
+1 1
+# selected card type 1
+# e 1.8461534850
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 1
+# e 3.7333314345
+1
+# eval (choose cm): 0.0000033697
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000091129
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000108451
+# card type : 0
+1 7
+# selected card type 1
+# e 1.5933608950
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.6956510490
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000023653
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000025852
+# card type : 0
+1 2
+# GAGAPI-GAGA
+1
+# eval (choose cm): 1000000000.0000000000
+# card type : 4
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000028372
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000034660
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000043295
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000055610
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000074037
+# card type : 0
+1 2
+# selected card type 0
+# e 1.5185180894
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000103407
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000154472
+# card type : 0
+1 2
+# selected card type 1
+# e 1.7777775894
+3
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000014547
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000016162
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000018061
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000020317
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000023023
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000026308
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000030350
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000035400
+# card type : 0
+1 3
+# selected card type 1
+# e 1.4999998978
+3
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000032157
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000038910
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000048037
+# card type : 0
+1 6
+# selected card type 1
+# e 1.4666664802
+3
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.7777770243
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000012186
+# card type : 0
+1 4
+# selected card type 0
+# e 1.7142838459
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000010596
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000015259
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000023842
+# card type : 0
+1 4
+# selected card type 0
+# e 1.6129028289
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 1
+# e 2.6666664672
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 1
+# e 2.1204817328
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000083860
+# card type : 0
+1 7
+# selected card type 0
+# e 1.9999974569
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000042150
+# card type : 0
+1 1
+# selected card type 1
+# e 1.8666664293
+4
+# eval (choose cm): 0.0000064549
+# card type : 1
+1 0
+# selected card type 0
+# e 1.9999988262
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000171661
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 7
+# selected card type 0
+# e 13.9998931893
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000012716
+# card type : 0
+1 6
+# selected card type 0
+# e 1.7499966621
+1
+# eval (choose cm): 0.0000013608
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000023645
+# card type : 0
+1 6
+# selected card type 0
+# e 1.5769226142
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000010010
+# card type : 0
+1 3
+# selected card type 1
+# e 4.5217386305
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.7058815874
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 2
+# selected card type 0
+# e 2.3999963379
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000008693
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000009123
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000009584
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000010082
+# card type : 0
+1 5
+# GAGAPI-GAGA
+2
+# eval (choose cm): 1000000000.0000000000
+# card type : 4
+1 0
+# selected card type 0
+# e 2.3999981689
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000010620
+# card type : 0
+1 5
+# selected card type 0
+# e 8.9999828339
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000007629
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000011921
+# card type : 0
+1 7
+# selected card type 0
+# e 1.9999923706
+4
+# eval (choose cm): 0.0000021193
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 7
+# selected card type 0
+# e 2.6666632758
+4
+# eval (choose cm): 0.0000003862
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000011105
+# card type : 0
+1 4
+# selected card type 0
+# e 1.9999961853
+3
+# eval (choose cm): 0.0000013321
+# card type : 0
+1 4
+# selected card type 0
+# e 1.5294114215
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 4
+# selected card type 1
+# e 1.4999999285
+4
+# eval (choose cm): 0.0000004693
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000005284
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000005887
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000006600
+# card type : 0
+1 6
+# selected card type 1
+# e 2.3529410005
+1
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000002184
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000002305
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000002437
+# card type : 0
+1 0
+# selected card type 0
+# e 1.6249992251
+4
+# eval (choose cm): 0.0000002580
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000006643
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000007307
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000008076
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000008972
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000010027
+# card type : 0
+1 0
+# selected card type 1
+# e 1.5999999186
+2
+# eval (choose cm): 0.0000016081
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0001364814
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 2.0434779219
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.5294114215
+2
+# eval (choose cm): 0.0000001755
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000008355
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000009169
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000010109
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000011201
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000012480
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000013992
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000015795
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000017971
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000020631
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000023927
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000028080
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000033418
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000040436
+# card type : 0
+1 5
+# selected card type 0
+# e 1.5999987793
+3
+# eval (choose cm): 0.0000049921
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000005364
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000007007
+# card type : 0
+1 5
+# selected card type 1
+# e 1.6335078208
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000022188
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4999995232
+2
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000014603
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000016615
+# card type : 0
+1 7
+# selected card type 1
+# e 3.1058822136
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 1
+# e 1.7272726524
+3
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 6.1666627460
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000069141
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000122918
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000276566
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000054496
+# card type : 0
+1 5
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000074175
+# card type : 0
+1 5
+# selected card type 1
+# e 1.6146788426
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4583331015
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000002483
+# card type : 0
+1 6
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000002914
+# card type : 0
+1 6
+# selected card type 1
+# e 1.5757574847
+3
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 1
+# e 2.1333332881
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000009775
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000010777
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000011941
+# card type : 0
+1 4
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000013304
+# card type : 0
+1 4
+# selected card type 1
+# e 16.9999918938
+1
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 1
+# e 1.8563535520
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000029194
+# card type : 0
+1 2
+# selected card type 1
+# e 2.0202019424
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000010133
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000013235
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000018014
+# card type : 0
+1 3
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000025940
+# card type : 0
+1 3
+# selected card type 1
+# e 1.8360655164
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000011921
+# card type : 0
+1 1
+# selected card type 1
+# e 1.9740258762
+2
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000171661
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 2.2222212803
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000006593
+# card type : 0
+1 2
+# selected card type 0
+# e 1.6923074440
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000008345
+# card type : 0
+1 2
+# selected card type 1
+# e 1.5555553907
+3
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000007248
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000008948
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000011325
+# card type : 0
+1 7
+# selected card type 0
+# e 3.4999933243
+1
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 7
+# selected card type 0
+# e 1.4999971390
+2
+# eval (choose cm): 0.0000002086
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000003160
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000003709
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000004414
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000005341
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000006593
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000008345
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000010899
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000014835
+# card type : 0
+1 2
+# selected card type 0
+# e 2.7058817458
+3
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000021362
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000033379
+# card type : 0
+1 2
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000059340
+# card type : 0
+1 2
+# selected card type 1
+# e 2.9090899002
+4
+# eval (choose cm): 100000001.0000000000
+# card type : 1
+1 0
+# selected card type 0
+# e 2.5714278708
+4
+# eval (choose cm): 100000010.0000000000
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000001354
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000001465
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0
+# eval (choose cm): 0.0000001589
+# card type : 0
+1 1
+# selected card type 0
+# e 1.4500000000
+0

@@ -1,0 +1,3000 @@
+# used Card(t=WORK_SINGLE w=9 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=50 p=20) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=9 p=7) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=49 p=35) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=37 p=30) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_ALL w=14 p=17) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=13 p=8) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=41 p=21) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=40 p=22) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=36 p=23) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=8 p=6) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=39 p=25) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=35 p=22) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=6 p=4) to target 0
+0 0
+1
+# used Card(t=WORK_ALL w=42 p=27) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=10 p=1) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=13 p=7) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=13 p=9) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=40 p=19) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=45 p=28) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=49 p=23) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=23 p=12) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_ALL w=21 p=32) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_ALL w=1 p=1) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=16 p=13) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=20 p=10) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=27 p=21) to target 0
+0 0
+1
+# used Card(t=WORK_ALL w=31 p=60) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=13 p=8) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=35 p=19) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=31 p=15) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=24 p=19) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=39 p=14) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=28 p=9) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=2 p=1) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=2 p=1) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=29 p=22) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_ALL w=48 p=111) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=4 p=2) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=14 p=10) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=4 p=2) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=29 p=19) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=31 p=12) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=47 p=22) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=34 p=28) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=5 p=2) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=13 p=6) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=39 p=17) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=36 p=28) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=3 p=2) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=35 p=11) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=10 p=7) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=9 p=6) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=34 p=13) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=18 p=13) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=20 p=10) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=24 p=10) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=42 p=23) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=26 p=13) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=49 p=40) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=27 p=22) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=30 p=14) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=29 p=23) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=22 p=5) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=23 p=9) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=49 p=35) to target 0
+0 0
+1
+# used Card(t=WORK_ALL w=39 p=61) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=9 p=7) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=48 p=26) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=24 p=18) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=22 p=10) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=7 p=5) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=21 p=5) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=49 p=35) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=14 p=2) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=31 p=13) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_ALL w=15 p=36) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=15 p=8) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=34 p=22) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=3 p=2) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=48 p=30) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=12 p=7) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=16 p=10) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=48 p=28) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=46 p=34) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=24 p=14) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=36 p=17) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=20 p=4) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=21 p=16) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=46 p=34) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=38 p=31) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=46 p=22) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_ALL w=3 p=5) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=37 p=30) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=3 p=2) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=8 p=5) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=40 p=33) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=43 p=35) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=27 p=17) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=16 p=13) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=6 p=4) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_ALL w=28 p=49) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=13 p=10) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=9 p=6) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=9 p=6) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=2 p=1) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=44 p=35) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=38 p=1) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=7 p=5) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=42 p=19) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=20 p=15) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_ALL w=12 p=17) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=25 p=17) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=5 p=2) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=47 p=35) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=12 p=6) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=48 p=29) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=25 p=18) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=40 p=9) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=25 p=19) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=18 p=13) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=33 p=21) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=2 p=1) to target 0
+0 0
+2
+# used Card(t=WORK_ALL w=27 p=64) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=48 p=19) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=7 p=3) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=40 p=31) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=9 p=4) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=24 p=15) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=43 p=25) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=19 p=15) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=32 p=16) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_ALL w=34 p=80) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=16 p=1) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=49 p=21) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=25 p=15) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=19 p=11) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=16 p=3) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=29 p=16) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=8 p=5) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=19 p=15) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=16 p=2) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=22 p=9) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=48 p=9) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=23 p=1) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=35 p=28) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=42 p=32) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=22 p=13) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=3 p=2) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=50 p=33) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=15 p=9) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=14 p=10) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=25 p=15) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=7 p=5) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=46 p=30) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=34 p=28) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=5 p=4) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_ALL w=39 p=87) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=16 p=11) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=39 p=18) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=50 p=33) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=19 p=15) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=17 p=9) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=41 p=24) to target 0
+0 0
+4
+# used Card(t=WORK_ALL w=15 p=29) to target 0
+0 0
+1
+# used Card(t=WORK_ALL w=39 p=57) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=37 p=16) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=47 p=33) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=24 p=8) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=9 p=2) to target 0
+0 0
+2
+# used Card(t=WORK_ALL w=41 p=92) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=47 p=34) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=39 p=18) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=39 p=16) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=48 p=17) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=28 p=18) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=17 p=14) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=23 p=9) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=34 p=10) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_ALL w=34 p=84) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_ALL w=24 p=31) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=10 p=4) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=27 p=10) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=32 p=26) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=48 p=29) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=16 p=10) to target 0
+0 0
+3
+# used Card(t=WORK_ALL w=15 p=33) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=4 p=3) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=20 p=9) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=41 p=31) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=18 p=9) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=44 p=23) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=27 p=18) to target 0
+0 0
+1
+# used Card(t=WORK_ALL w=3 p=3) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=2 p=1) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=16 p=11) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=44 p=7) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=24 p=14) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=40 p=32) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=24 p=11) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=24 p=12) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=49 p=22) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=6 p=3) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=24 p=19) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=42 p=17) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=3 p=2) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=49 p=25) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=9 p=5) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_ALL w=8 p=11) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=32 p=20) to target 0
+0 0
+1
+# used Card(t=WORK_ALL w=39 p=66) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=20 p=12) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=9 p=7) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=23 p=12) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=30 p=23) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=44 p=20) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=5 p=4) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_ALL w=14 p=28) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=20 p=14) to target 0
+0 0
+4
+# used Card(t=WORK_ALL w=6 p=13) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_ALL w=49 p=113) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=22 p=11) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=8 p=2) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=4 p=2) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_ALL w=28 p=37) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=37 p=26) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=15 p=10) to target 0
+0 0
+4
+# used Card(t=WORK_ALL w=7 p=17) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=38 p=28) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=39 p=21) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=38 p=29) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=47 p=12) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=10 p=7) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=5 p=1) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=32 p=22) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=4 p=3) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=5 p=3) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=4 p=1) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=3 p=2) to target 0
+0 0
+1
+# used Card(t=WORK_ALL w=23 p=42) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=32 p=17) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=48 p=39) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=23 p=2) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=10 p=8) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=49 p=37) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=22 p=9) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=41 p=31) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=25 p=18) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=3 p=2) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=20 p=15) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=17 p=11) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=14 p=7) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=25 p=10) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=42 p=13) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=26 p=15) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=25 p=16) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=43 p=23) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=32 p=25) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=38 p=28) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=46 p=26) to target 0
+0 0
+4
+# used Card(t=WORK_ALL w=23 p=54) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=48 p=25) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=4 p=3) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=35 p=26) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=44 p=14) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=16 p=1) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=31 p=22) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=8 p=5) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=7 p=2) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=7 p=4) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=24 p=12) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=29 p=22) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=10 p=8) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=33 p=20) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_ALL w=2 p=4) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=45 p=27) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=18 p=14) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=5 p=4) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=21 p=1) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=6 p=4) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=20 p=1) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=48 p=24) to target 0
+0 0
+4
+# used Card(t=WORK_ALL w=27 p=60) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=16 p=9) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=14 p=4) to target 0
+0 0
+4
+# used Card(t=WORK_ALL w=16 p=30) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=20 p=14) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=21 p=16) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=45 p=29) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=38 p=30) to target 0
+0 0
+4
+# used Card(t=WORK_ALL w=35 p=70) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=4 p=3) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=40 p=31) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=26 p=18) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=33 p=27) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=11 p=8) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=40 p=31) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=20 p=14) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=26 p=19) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=32 p=21) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=13 p=9) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=23 p=12) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=10 p=6) to target 0
+0 0
+4
+# used Card(t=WORK_ALL w=20 p=38) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=40 p=33) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=37 p=25) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=7 p=3) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=36 p=27) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=37 p=25) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_ALL w=45 p=95) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=7 p=5) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=5 p=4) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=37 p=23) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=40 p=13) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=16 p=13) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=4 p=3) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=37 p=12) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=35 p=25) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=49 p=33) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=4 p=3) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=23 p=17) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=45 p=21) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=17 p=12) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=42 p=25) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=25 p=13) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=4 p=1) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=39 p=15) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=47 p=32) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=9 p=4) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=13 p=9) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=5 p=3) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=40 p=19) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=11 p=9) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=8 p=3) to target 0
+0 0
+1
+# used Card(t=WORK_ALL w=17 p=23) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=7 p=5) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=29 p=14) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=46 p=31) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=22 p=10) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=21 p=7) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=30 p=18) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=10 p=4) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=45 p=32) to target 0
+0 0
+4
+# used Card(t=WORK_ALL w=3 p=7) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_ALL w=34 p=79) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=47 p=18) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=17 p=5) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=10 p=8) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=47 p=30) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=44 p=33) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=5 p=2) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=8 p=4) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_ALL w=47 p=66) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=40 p=26) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=47 p=11) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=35 p=22) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=36 p=16) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=41 p=31) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=25 p=19) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=5 p=3) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=30 p=13) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=15 p=11) to target 0
+0 0
+3
+# used Card(t=WORK_ALL w=33 p=74) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=4 p=2) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=23 p=17) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=25 p=18) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=46 p=26) to target 0
+0 0
+3
+# used Card(t=WORK_ALL w=38 p=89) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=10 p=8) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=22 p=17) to target 0
+0 0
+4
+# used Card(t=WORK_ALL w=32 p=39) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=11 p=5) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=42 p=33) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=31 p=14) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=39 p=23) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=36 p=15) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=42 p=31) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=10 p=6) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=9 p=6) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=41 p=30) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=43 p=20) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=35 p=18) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
+# used Card(t=WORK_SINGLE w=3 p=1) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=43 p=28) to target 0
+0 0
+4
+# used Card(t=WORK_SINGLE w=20 p=6) to target 0
+0 0
+3
+# used Card(t=WORK_SINGLE w=22 p=5) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=5 p=4) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=23 p=19) to target 0
+0 0
+1
+# used Card(t=WORK_SINGLE w=24 p=13) to target 0
+0 0
+0
+# used Card(t=WORK_SINGLE w=1 p=0) to target 0
+0 0
+2
