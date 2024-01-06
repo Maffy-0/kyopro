@@ -12,28 +12,41 @@ int main(void) {
     fast_io();
     int N, K;
     cin >> N >> K;
-    vector<int> A(K);
+    vector<int> A(202020);
     for (int i = 0; i < K; i++) {
-        cin >> A[i];
+        int a;
+        cin >> a;
+        A[a] = 1;
     }
-    if (K == 1) {
-        cout << 0 << endl;
+    vector<int> B;
+    for (int i = 1; i <= N; i++) {
+        for (int j = A[i]; j < 2; j++) {
+            B.push_back(i);
+        }
+    }
+    int M = B.size();
+    if (M % 2 == 0) {
+        long ans = 0;
+        for (int i = 0; i < M; i += 2) {
+            ans += B[i + 1] - B[i];
+        }
+        cout << ans << endl;
         return 0;
     }
-
-    vector<long> B(K - 1);
-    vector<tuple<long, int, int>> p;
-    for (int i = 0; i < K - 1; i++) {
-        B[i] = A[i + 1] - A[i];
-        p.emplace_back(B[i], A[i], A[i + 1]);
+    vector<long> L(M + 1), R(M + 1);
+    for (int i = 0; i < M; i += 2) {
+        L[i + 2] = L[i] + B[i + 1] - B[i];
     }
-    sort(p.begin(), p.end());
-    vector<int> vis(N + 1);
-    long ans = 0;
-    for (auto [cost, i, j] : p) {
-        if (vis[i] || vis[j]) continue;
-        vis[i] = vis[j] = true;
-        ans += cost;
+    for (int i = M - 2; i >= 0; i -= 2) {
+        R[i] = R[i + 2] + B[i + 1] - B[i];
+    }
+    long ans = 2e18;
+    for (int i = 0; i < M; i++) {
+        if (i % 2 == 0) {
+            ans = min(ans, L[i] + R[i + 1]);
+        } else {
+            ans = min(ans, L[i - 1] + B[i + 1] - B[i - 1] + R[i + 2]);
+        }
     }
     cout << ans << endl;
     return 0;
