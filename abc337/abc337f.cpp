@@ -10,5 +10,6 @@ void fast_io() {
 
 signed main(void) {
     fast_io();
+    cout << string(4, '1') << endl;
     return 0;
 }

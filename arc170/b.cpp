@@ -1,5 +1,5 @@
-#include <bits/stdc++.h>
 #include <atcoder/all>
+#include <bits/stdc++.h>
 using namespace std;
 using namespace atcoder;
 
@@ -10,5 +10,12 @@ void fast_io() {
 
 signed main(void) {
     fast_io();
+    int N;
+    cin >> N;
+    vector<int> A(N);
+    for (int i = 0; i < N; i++) {
+        cin >> A[i];
+    }
+    
     return 0;
 }

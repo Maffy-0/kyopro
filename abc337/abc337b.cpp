@@ -10,5 +10,10 @@ void fast_io() {
 
 signed main(void) {
     fast_io();
+    string s;
+    cin >> s;
+    string t = s;
+    sort(t.begin(), t.end());
+    cout << (s == t ? "Yes\n" : "No\n"); 
     return 0;
 }
