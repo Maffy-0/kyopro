@@ -10,15 +10,17 @@ void fast_io() {
 
 signed main(void) {
     fast_io();
-    int N;
-    cin >> N;
-    vector<int> p(N + 1), q(N + 1);
-    for (int i = 1; i <= N; i++) {
-        cin >> p[i];
-        q[p[i]] = i;
-    }
-    for (int i = 1; i <= N; i++) {
-        cout << q[i] << " \n"[i == N];
+    int Q;
+    cin >> Q;
+    vector<int> v;
+    while (Q--) {
+        int op, x;
+        cin >> op >> x;
+        if (op == 1) {
+            v.push_back(x);
+        } else {
+            cout << v[v.size() - x] << '\n';
+        }
     }
     return 0;
 }

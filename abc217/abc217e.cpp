@@ -2,36 +2,37 @@
 #include <bits/stdc++.h>
 using namespace std;
 using namespace atcoder;
-using ll = long long;
 
 void fast_io() {
     cin.tie(nullptr);
     ios_base::sync_with_stdio(false);
 }
-int Q;
-int ope, x;
 
-int main(void) {
+signed main(void) {
     fast_io();
+    int Q;
     cin >> Q;
-    deque<int> A;
-    multiset<int> B;
+
+    multiset<int> st;
+    deque<int> q;
     while (Q--) {
-        cin >> ope;
-        if (ope == 1) {
+        int c;
+        cin >> c;
+        if (c == 1) {
+            int x;
             cin >> x;
-            A.push_back(x);
-        } else if (ope == 2) {
-            if (!B.empty()) {
-                cout << *B.begin()<< '\n';
-                B.erase(B.begin());
+            q.push_back(x);
+        } else if (c == 2) {
+            if (!st.empty()) {
+                cout << *st.begin() << '\n';
+                st.erase(st.begin());
             } else {
-                cout << A.front() << '\n';
-                A.pop_front();
+                cout << q.front() << '\n';
+                q.pop_front();
             }
         } else {
-            B.insert(A.begin(), A.end());
-            A.clear();
+            st.insert(q.begin(), q.end());
+            q.clear();
         }
     }
     return 0;

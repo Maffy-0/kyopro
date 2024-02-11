@@ -15,7 +15,7 @@ cd "$dirname"
 for char in {a..f}
 do
     filename="abc${padded_number}${char}.cpp"
-    cp "../atcoder.cpp" "$filename"
+    cp "../../library/atcoder.cpp" "$filename"
     echo "Created file: $filename"
 done
 

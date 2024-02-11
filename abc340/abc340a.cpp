@@ -10,8 +10,10 @@ void fast_io() {
 
 signed main(void) {
     fast_io();
-    string S, T;
-    cin >> S >> T;
-    cout << (S < T ? "Yes\n" : "No\n");
+    int A, B, D;
+    cin >> A >> B >> D;
+    for (int i = A; i <= B; i += D) {
+        cout << i << " \n"[i == B];
+    }
     return 0;
 }

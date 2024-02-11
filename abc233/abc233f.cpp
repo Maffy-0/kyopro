@@ -10,8 +10,13 @@ void fast_io() {
 
 signed main(void) {
     fast_io();
-    string S, T;
-    cin >> S >> T;
-    cout << (S < T ? "Yes\n" : "No\n");
+    int N;
+    long K;
+    vector<int> A(N);
+    cin >> N >> K;
+    for (int i = 0; i < N; i++) {
+        cin >> A[i];
+    }
+    
     return 0;
 }

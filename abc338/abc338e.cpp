@@ -12,13 +12,14 @@ signed main(void) {
     fast_io();
     int N;
     cin >> N;
-    vector<int> p(N + 1), q(N + 1);
-    for (int i = 1; i <= N; i++) {
-        cin >> p[i];
-        q[p[i]] = i;
+    vector<int> A(N), B(N);
+    for (int i = 0; i < N; i++) {
+        cin >> A[i] >> B[i];
+        A[i]--, B[i]--;
     }
-    for (int i = 1; i <= N; i++) {
-        cout << q[i] << " \n"[i == N];
-    }
+    vector<int> rui(N + 1);
+    for (int i = 0; i < N; i++) {
+        
+    }    
     return 0;
 }
