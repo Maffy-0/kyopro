@@ -12,12 +12,14 @@ signed main(void) {
     fast_io();
     int N;
     cin >> N;
-    vector<double> P(N);
-    for (int i = 0; i < N; i++) {
-        cin >> P[i];
+    for (int i = N; ; i++) {
+        int a = i / 100;
+        int b = i / 10 % 10;
+        int c = i % 10;
+        if (a * b == c) {
+            cout << i << endl;
+            return 0;
+        }
     }
-    vector<double> dp(N + 1);
-    double w, ans = -1200.0;
-    
     return 0;
 }

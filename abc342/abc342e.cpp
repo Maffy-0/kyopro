@@ -10,14 +10,13 @@ void fast_io() {
 
 signed main(void) {
     fast_io();
-    int N;
-    cin >> N;
-    vector<double> P(N);
-    for (int i = 0; i < N; i++) {
-        cin >> P[i];
+    long N, M;
+    cin >> N >> M;
+    for (int i = 0; i < M; i++) {
+        long l, d, k, c, a, b;
+        cin >> l >> d >> k >> a >> b;
+        a--, b--;
+        
     }
-    vector<double> dp(N + 1);
-    double w, ans = -1200.0;
-    
     return 0;
 }

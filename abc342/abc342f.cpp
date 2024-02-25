@@ -10,14 +10,5 @@ void fast_io() {
 
 signed main(void) {
     fast_io();
-    int N;
-    cin >> N;
-    vector<double> P(N);
-    for (int i = 0; i < N; i++) {
-        cin >> P[i];
-    }
-    vector<double> dp(N + 1);
-    double w, ans = -1200.0;
-    
     return 0;
 }
