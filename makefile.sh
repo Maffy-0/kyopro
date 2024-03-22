@@ -19,4 +19,8 @@ do
     echo "Created file: $filename"
 done
 
-code abc*
+for char in {f..a}
+do
+    filename="abc${padded_number}${char}.cpp"
+    code $filename
+done
