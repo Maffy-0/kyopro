@@ -1,0 +1,12 @@
+/home/maffy/kyopro/ahc040/target/release/deps/libanstyle-60055815445188de.rmeta: /home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/lib.rs /home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/macros.rs /home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/color.rs /home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/effect.rs /home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/reset.rs /home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/style.rs
+
+/home/maffy/kyopro/ahc040/target/release/deps/libanstyle-60055815445188de.rlib: /home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/lib.rs /home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/macros.rs /home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/color.rs /home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/effect.rs /home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/reset.rs /home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/style.rs
+
+/home/maffy/kyopro/ahc040/target/release/deps/anstyle-60055815445188de.d: /home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/lib.rs /home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/macros.rs /home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/color.rs /home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/effect.rs /home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/reset.rs /home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/style.rs
+
+/home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/lib.rs:
+/home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/macros.rs:
+/home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/color.rs:
+/home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/effect.rs:
+/home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/reset.rs:
+/home/maffy/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.0/src/style.rs:
